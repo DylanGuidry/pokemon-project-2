@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Pokemon';
+    src: url(./fonts/PokemonGb-RAeo.ttf) format('truetype');
+}
+
+.nav-font {
+    font-family: 'Pokemon';
+    font-size: 10px;
+}

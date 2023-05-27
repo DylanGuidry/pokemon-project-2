@@ -1,0 +1,9 @@
+.search-bar {
+    width: 400px;
+    text-align: center;
+}
+
+.search-box-container {
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Pokemon';
+    src: url(./fonts/PokemonGb-RAeo.ttf) format('truetype');
+}
+
+.card-font {
+    font-family: 'Pokemon';
+    font-size: 10px;
+}
