@@ -3,6 +3,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
+import Pokedex from './images/Pokédex_logo.png'
 import Pokeball from './images/NicePng_master-ball-png_8912776.png'
 import './navbar.css'
 
@@ -11,7 +12,7 @@ function NavbarPokemon() {
         <Navbar bg="dark" expand="lg" variant="dark" className="shadow-lg p-3 mb-5 nav-font">
             <Container>
                 <img src={Pokeball} width='30px' className="m-4"/>
-                <Navbar.Brand className="text-center" href="/">Pokédex</Navbar.Brand>
+                <Navbar.Brand className="text-center" href="/"><img src={Pokedex} width='100px' /></Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="me-auto">
