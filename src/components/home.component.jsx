@@ -3,6 +3,7 @@ import NavbarPokemon from "./navbar.component";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { useState, useEffect } from "react";
 import Cards from "./card.component";
+import Footer from './footer.component'
 import Searchbar from "./searchbar.component";
 
 function Home() {
@@ -55,6 +56,7 @@ function Home() {
                 <NavbarPokemon />
                 <Searchbar />
                 <Cards pokemonList={pokemon}/>
+                <Footer />
             </section>
         </div>
     )
