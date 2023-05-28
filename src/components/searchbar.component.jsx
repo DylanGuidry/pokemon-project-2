@@ -38,7 +38,7 @@ return (
                 onChange={(e) => setSearchInput(e.target.value)}
                 onKeyDown={handleKeyDown}
                 />
-                <button className="btn btn-primary" onClick={handleSubmit}>
+                <button className="btn btn-danger" onClick={handleSubmit}>
                     Search
                 </button>
             </div>
