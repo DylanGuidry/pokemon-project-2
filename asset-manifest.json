@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/repository/static/css/main.390d94eb.css",
-    "main.js": "/repository/static/js/main.563c85b2.js",
-    "static/js/787.c8c9d7af.chunk.js": "/repository/static/js/787.c8c9d7af.chunk.js",
-    "static/media/dylan fiverr bun (red).png": "/repository/static/media/dylan fiverr bun (red).d42978be5af02e20c625.png",
-    "static/media/Pokédex_logo.png": "/repository/static/media/Pokédex_logo.907dcf3a592a0e37e0dd.png",
-    "static/media/PokemonGb-RAeo.ttf": "/repository/static/media/PokemonGb-RAeo.6211ee48ea626f34681e.ttf",
-    "index.html": "/repository/index.html",
-    "main.390d94eb.css.map": "/repository/static/css/main.390d94eb.css.map",
-    "main.563c85b2.js.map": "/repository/static/js/main.563c85b2.js.map",
-    "787.c8c9d7af.chunk.js.map": "/repository/static/js/787.c8c9d7af.chunk.js.map"
+    "main.css": "/pokemon-project-2/static/css/main.962b94e9.css",
+    "main.js": "/pokemon-project-2/static/js/main.ec710f93.js",
+    "static/js/787.c8c9d7af.chunk.js": "/pokemon-project-2/static/js/787.c8c9d7af.chunk.js",
+    "static/media/dylan fiverr bun (red).png": "/pokemon-project-2/static/media/dylan fiverr bun (red).d42978be5af02e20c625.png",
+    "static/media/Pokédex_logo.png": "/pokemon-project-2/static/media/Pokédex_logo.907dcf3a592a0e37e0dd.png",
+    "static/media/PokemonGb-RAeo.ttf": "/pokemon-project-2/static/media/PokemonGb-RAeo.6211ee48ea626f34681e.ttf",
+    "index.html": "/pokemon-project-2/index.html",
+    "main.962b94e9.css.map": "/pokemon-project-2/static/css/main.962b94e9.css.map",
+    "main.ec710f93.js.map": "/pokemon-project-2/static/js/main.ec710f93.js.map",
+    "787.c8c9d7af.chunk.js.map": "/pokemon-project-2/static/js/787.c8c9d7af.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.390d94eb.css",
-    "static/js/main.563c85b2.js"
+    "static/css/main.962b94e9.css",
+    "static/js/main.ec710f93.js"
   ]
 }
