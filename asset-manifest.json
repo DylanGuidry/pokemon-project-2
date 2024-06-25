@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/repository/static/css/main.390d94eb.css",
+    "main.js": "/repository/static/js/main.563c85b2.js",
+    "static/js/787.c8c9d7af.chunk.js": "/repository/static/js/787.c8c9d7af.chunk.js",
+    "static/media/dylan fiverr bun (red).png": "/repository/static/media/dylan fiverr bun (red).d42978be5af02e20c625.png",
+    "static/media/Pokédex_logo.png": "/repository/static/media/Pokédex_logo.907dcf3a592a0e37e0dd.png",
+    "static/media/PokemonGb-RAeo.ttf": "/repository/static/media/PokemonGb-RAeo.6211ee48ea626f34681e.ttf",
+    "index.html": "/repository/index.html",
+    "main.390d94eb.css.map": "/repository/static/css/main.390d94eb.css.map",
+    "main.563c85b2.js.map": "/repository/static/js/main.563c85b2.js.map",
+    "787.c8c9d7af.chunk.js.map": "/repository/static/js/787.c8c9d7af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.390d94eb.css",
+    "static/js/main.563c85b2.js"
+  ]
+}
