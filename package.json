@@ -40,5 +40,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://username.github.io/repository"
+  "homepage": "https://DylanGuidry.github.io/pokemon-project-2",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
 }
